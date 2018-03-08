@@ -1,5 +1,3 @@
 # web1 self-publishing
 
-hello@imaginaryterrain.com
-
-[Students: edit this file!]
+rs0686a@student.american.edu
